@@ -13,4 +13,4 @@ In this project, we were asked to implement in C language a command line program
  - <i>Translate sentence</i>
  - <i>Exit</i>
   <br>When the user types a word that does not exist in the dictionary instead of the program displaying an error message, it should calculate the distance of the user's word from the words of the dictionary according to Levenshtein distance and display the three closest words to the one the user typed.
- <br><br><br> The project was succesfully evalueted in February 2015 with score <b>2.5 /2.5</b>
+ <br><br><br> The project was succesfully evaluated in February 2015 with score <b>2.5 /2.5</b>
